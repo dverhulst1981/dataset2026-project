@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "België",
+    "capital": "Brussel",
+    "population": 11500000,
+    "isEU": true,
+    "flagUrl": "https://flagcdn.com/be.svg"
+  },
+  {
+    "id": 2,
+    "name": "Nederland",
+    "capital": "Amsterdam",
+    "population": 17500000,
+    "isEU": true,
+    "flagUrl": "https://flagcdn.com/nl.svg"
+  },
+  {
+    "id": 3,
+    "name": "Duitsland",
+    "capital": "Berlijn",
+    "population": 83000000,
+    "isEU": true,
+    "flagUrl": "https://flagcdn.com/de.svg"
+  },
+  {
+    "id": 4,
+    "name": "Spanje",
+    "capital": "Madrid",
+    "population": 47000000,
+    "isEU": true,
+    "flagUrl": "https://flagcdn.com/es.svg"
+  },
+  {
+    "id": 5,
+    "name": "Frankrijk",
+    "capital": "Parijs",
+    "population": 65000000,
+    "isEU": true,
+    "flagUrl": "https://flagcdn.com/fr.svg"
+  }
+]

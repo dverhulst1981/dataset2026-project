@@ -1,0 +1,182 @@
+[
+  {
+    "id": 101,
+    "name": "Camp Nou",
+    "description": "Het iconische stadion van FC Barcelona en een van de grootste voetbalstadia ter wereld.",
+    "capacity": 99354,
+    "isOpen": true,
+    "openedDate": "1957-09-24",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Camp_Nou_panorama.jpg",
+    "category": "club",
+    "features": ["museum", "VIP-zones", "fanshop"],
+    "country": {
+      "id": 4,
+      "name": "Spanje",
+      "capital": "Madrid",
+      "flagUrl": "https://flagcdn.com/es.svg",
+      "isEU": true
+    }
+  },
+  {
+    "id": 102,
+    "name": "Wembley Stadium",
+    "description": "Nationaal stadion van Engeland, bekend om grote finales en concerten.",
+    "capacity": 90000,
+    "isOpen": true,
+    "openedDate": "2007-03-09",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Wembley_Stadium_interior.jpg",
+    "category": "nationaal",
+    "features": ["boog", "concerten", "VIP-zones"],
+    "country": {
+      "id": 5,
+      "name": "Frankrijk",
+      "capital": "Parijs",
+      "flagUrl": "https://flagcdn.com/fr.svg",
+      "isEU": true
+    }
+  },
+  {
+    "id": 103,
+    "name": "Allianz Arena",
+    "description": "Modern stadion in München met een verlichte gevel.",
+    "capacity": 75000,
+    "isOpen": true,
+    "openedDate": "2005-05-30",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Allianz_Arena_Munich.jpg",
+    "category": "club",
+    "features": ["LED-gevel", "museum", "restaurants"],
+    "country": {
+      "id": 3,
+      "name": "Duitsland",
+      "capital": "Berlijn",
+      "flagUrl": "https://flagcdn.com/de.svg",
+      "isEU": true
+    }
+  },
+  {
+    "id": 104,
+    "name": "Johan Cruijff Arena",
+    "description": "Thuishaven van Ajax en een van de modernste stadia van Europa.",
+    "capacity": 55885,
+    "isOpen": true,
+    "openedDate": "1996-08-14",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Johan_Cruijff_Arena.jpg",
+    "category": "club",
+    "features": ["dak", "concerten", "museum"],
+    "country": {
+      "id": 2,
+      "name": "Nederland",
+      "capital": "Amsterdam",
+      "flagUrl": "https://flagcdn.com/nl.svg",
+      "isEU": true
+    }
+  },
+  {
+    "id": 105,
+    "name": "Koning Boudewijnstadion",
+    "description": "Nationaal stadion van België, gebruikt voor voetbal en atletiek.",
+    "capacity": 50093,
+    "isOpen": true,
+    "openedDate": "1930-08-23",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/King_Baudouin_Stadium.jpg",
+    "category": "nationaal",
+    "features": ["atletiekpiste", "concerten"],
+    "country": {
+      "id": 1,
+      "name": "België",
+      "capital": "Brussel",
+      "flagUrl": "https://flagcdn.com/be.svg",
+      "isEU": true
+    }
+  },
+  {
+    "id": 106,
+    "name": "Parc des Princes",
+    "description": "Het stadion van Paris Saint-Germain in het hart van Parijs.",
+    "capacity": 47929,
+    "isOpen": true,
+    "openedDate": "1972-06-04",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Parc_des_Princes.jpg",
+    "category": "club",
+    "features": ["VIP-lounges", "nachtverlichting"],
+    "country": {
+      "id": 5,
+      "name": "Frankrijk",
+      "capital": "Parijs",
+      "flagUrl": "https://flagcdn.com/fr.svg",
+      "isEU": true
+    }
+  },
+  {
+    "id": 107,
+    "name": "Signal Iduna Park",
+    "description": "Bekend om de Gelbe Wand en fanatieke supporters.",
+    "capacity": 81365,
+    "isOpen": true,
+    "openedDate": "1974-04-02",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Signal_Iduna_Park.jpg",
+    "category": "club",
+    "features": ["staantribune", "museum"],
+    "country": {
+      "id": 3,
+      "name": "Duitsland",
+      "capital": "Berlijn",
+      "flagUrl": "https://flagcdn.com/de.svg",
+      "isEU": true
+    }
+  },
+  {
+    "id": 108,
+    "name": "Metropolitano Stadium",
+    "description": "Modern stadion van Atlético Madrid.",
+    "capacity": 68456,
+    "isOpen": true,
+    "openedDate": "2017-09-16",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Wanda_Metropolitano.jpg",
+    "category": "club",
+    "features": ["dak", "LED-schermen"],
+    "country": {
+      "id": 4,
+      "name": "Spanje",
+      "capital": "Madrid",
+      "flagUrl": "https://flagcdn.com/es.svg",
+      "isEU": true
+    }
+  },
+  {
+    "id": 109,
+    "name": "De Kuip",
+    "description": "Historisch stadion van Feyenoord in Rotterdam.",
+    "capacity": 51177,
+    "isOpen": true,
+    "openedDate": "1937-03-27",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/De_Kuip_Rotterdam.jpg",
+    "category": "club",
+    "features": ["klassiek ontwerp", "goede akoestiek"],
+    "country": {
+      "id": 2,
+      "name": "Nederland",
+      "capital": "Amsterdam",
+      "flagUrl": "https://flagcdn.com/nl.svg",
+      "isEU": true
+    }
+  },
+  {
+    "id": 110,
+    "name": "Stade de France",
+    "description": "Nationaal stadion van Frankrijk, gebruikt voor voetbal en rugby.",
+    "capacity": 80000,
+    "isOpen": true,
+    "openedDate": "1998-01-28",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Stade_de_France.jpg",
+    "category": "nationaal",
+    "features": ["uitschuifbare tribunes", "concerten"],
+    "country": {
+      "id": 5,
+      "name": "Frankrijk",
+      "capital": "Parijs",
+      "flagUrl": "https://flagcdn.com/fr.svg",
+      "isEU": true
+    }
+  }
+]
