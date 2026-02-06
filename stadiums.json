@@ -6,7 +6,7 @@
     "capacity": 99354,
     "isOpen": true,
     "openedDate": "1957-09-24",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Camp_Nou_panorama.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset2026-project/refs/heads/main/images/camp-nou.webp",
     "category": "club",
     "features": ["museum", "VIP-zones", "fanshop"],
     "country": {
@@ -24,7 +24,7 @@
     "capacity": 90000,
     "isOpen": true,
     "openedDate": "2007-03-09",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Wembley_Stadium_interior.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset2026-project/refs/heads/main/images/wembley.jpg",
     "category": "nationaal",
     "features": ["boog", "concerten", "VIP-zones"],
     "country": {
@@ -42,7 +42,7 @@
     "capacity": 75000,
     "isOpen": true,
     "openedDate": "2005-05-30",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Allianz_Arena_Munich.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset2026-project/refs/heads/main/images/allianz-arena.webp",
     "category": "club",
     "features": ["LED-gevel", "museum", "restaurants"],
     "country": {
@@ -60,7 +60,7 @@
     "capacity": 55885,
     "isOpen": true,
     "openedDate": "1996-08-14",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Johan_Cruijff_Arena.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset2026-project/refs/heads/main/images/ajax.jpg",
     "category": "club",
     "features": ["dak", "concerten", "museum"],
     "country": {
@@ -78,7 +78,7 @@
     "capacity": 50093,
     "isOpen": true,
     "openedDate": "1930-08-23",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/King_Baudouin_Stadium.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset2026-project/refs/heads/main/images/belgie.jpg",
     "category": "nationaal",
     "features": ["atletiekpiste", "concerten"],
     "country": {
@@ -96,7 +96,7 @@
     "capacity": 47929,
     "isOpen": true,
     "openedDate": "1972-06-04",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Parc_des_Princes.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset2026-project/refs/heads/main/images/psg.jpg",
     "category": "club",
     "features": ["VIP-lounges", "nachtverlichting"],
     "country": {
@@ -114,7 +114,7 @@
     "capacity": 81365,
     "isOpen": true,
     "openedDate": "1974-04-02",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Signal_Iduna_Park.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset2026-project/refs/heads/main/images/gelbe.jpg",
     "category": "club",
     "features": ["staantribune", "museum"],
     "country": {
@@ -132,7 +132,7 @@
     "capacity": 68456,
     "isOpen": true,
     "openedDate": "2017-09-16",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Wanda_Metropolitano.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset2026-project/refs/heads/main/images/atletico.jpg",
     "category": "club",
     "features": ["dak", "LED-schermen"],
     "country": {
@@ -150,7 +150,7 @@
     "capacity": 51177,
     "isOpen": true,
     "openedDate": "1937-03-27",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/De_Kuip_Rotterdam.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset2026-project/refs/heads/main/images/kuip.jpg",
     "category": "club",
     "features": ["klassiek ontwerp", "goede akoestiek"],
     "country": {
@@ -168,7 +168,7 @@
     "capacity": 80000,
     "isOpen": true,
     "openedDate": "1998-01-28",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Stade_de_France.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/dverhulst1981/dataset2026-project/refs/heads/main/images/stade.jpg",
     "category": "nationaal",
     "features": ["uitschuifbare tribunes", "concerten"],
     "country": {
